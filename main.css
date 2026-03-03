@@ -1,0 +1,21 @@
+main {
+    font-size: 50px;
+    text-align: center;
+}
+
+p {
+    font-size: 30px;
+    text-align: left;
+}
+
+.text-bold {
+    font-weight: 700;
+}
+
+.text-dark {
+    color: #e287a6;
+}
+
+img {
+    width: 800px;
+}
